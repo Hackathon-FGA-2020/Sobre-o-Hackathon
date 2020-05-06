@@ -9,11 +9,25 @@ Veja as principais informações para garantir a excelente participação da sua
 
 Seja muito bem-vinda(o) !!!
 
+## Informações básicas
+
+- Esse repositório é apenas um meio de comunicação ;
+- **Leia o Regulamento do Hackathon !** ---> [clique aqui](./docs/Regulamento_Hackathon_UnB_FGA.pdf) ;
+- Algumas informações à respeito do evento estarão disponíveis nas *issues* desse respositório, portanto **esteja atento(a)** ;
+- Quaisquer dúvidas, entre em contato com a Comissão Organizadora :
+  - Instagram : @hackathonunbfga2020
+  - Email : maratonadeprogramacaofga@gmail.com
+  - Você também pode criar uma *issue* nesse repositório para tirar sua dúvida. Nesse caso, utilize a *label* "Dúvidas" na criação da *issue* .
+
+  Veja abaixo como criar o repositório da sua equipe para desenvolver a solução.
+
 ## Sobre os repositórios nessa organização
+
+⚠️ **O repositório só poderá ser criado quando for dada a largada da fase de desenvolvimento do Hackathon, no dia 15/05/2020, conforme previsto no [regulamento](./docs/Regulamento_Hackathon_UnB_FGA.pdf)**. ⚠️
 
 - Cada repositório representa uma solução para um determinado desafio, com exceção do Sobre-o-Hackathon.
 
-- O **líder de cada time**, feita a escolha de qual desafio irá cumprir, deverá **criar um repositório nessa organização da seguinte maneira** :
+- O **líder de cada time**, feita a escolha de qual desafio irá cumprir (conforme o [regulamento](./docs/Regulamento_Hackathon_UnB_FGA.pdf)), deverá **criar um repositório nessa organização da seguinte maneira** :
 
   - ``X-NomeDaSolucao``, 
 
