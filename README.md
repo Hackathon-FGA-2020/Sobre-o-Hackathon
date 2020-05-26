@@ -1,5 +1,11 @@
-## Sobre-o-Hackathon
-Veja as principais informações para garantir a excelente participação da sua equipe no evento.
+<h2 align="center">Sobre-o-Hackathon</h2>
+<h4 align="center">Veja as principais informações para garantir a excelente participação da sua equipe no evento.</h4>
+
+<p align="center">
+  <a href="#informações-básicas">Informações básicas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#resultados">Resultados</a>&nbsp;&nbsp;&nbsp;
+</p>
 
 # Hackathon UnB 2020 - soluções para enfrentar a COVID-19
 
@@ -66,6 +72,44 @@ Seja muito bem-vinda(o) !!!
 - Tema 3 : Agricultura e Alimentação - 
 </br>Desafio 3 : [Cultivando Conexões](./docs/Desafios/Desafio_3/Hackathon_FGA_2020_Desafio_3.pdf) ;
   - Anexo importante : [Agricultura Familiar](./docs/Desafios/Desafio_3/Anexo_Agricultura_Familiar.pdf) .
+
+***
+
+## Resultados
+
+O **Hackathon UnB-FGA 2020** tem a honra de apresentar os projetos vencedores :
+
+### Desafio 1 - Informar é Prevenir
+• Primeiro lugar : [Grupo 10 (CodInfo)](https://github.com/Hackathon-FGA-2020/Desafio-1-Grupo-10)</br>
+• Segunda lugar : [Grupo 8 (Locovid)](https://github.com/Hackathon-FGA-2020/Desafio-1-Grupo-8)</br>
+• Terceiro lugar : [Grupo 1 (Dubium)](https://github.com/Hackathon-FGA-2020/Desafio-1-Grupo-1)</br>
+ 
+### Desafio 2 - Construindo relações e facilitando a ajuda
+• Primeiro lugar : [Grupo 2 (Solidev)](https://github.com/Hackathon-FGA-2020/Desafio-2-Grupo-2)</br>
+• Segundo lugar : [Grupo 5 (Ajuda aí)](https://github.com/Hackathon-FGA-2020/Desafio-2-Grupo-5)</br>
+ 
+### Desafio 3 - Cultivando conexões
+• Primeiro lugar : [Grupo 6 (AgroMart)](https://github.com/Hackathon-FGA-2020/Desafio-3-Grupo-6)</br>
+• Segundo lugar : Empate entre [Grupo 3 (Nos Encontre)](https://github.com/Hackathon-FGA-2020/Desafio-3-Grupo-3) e [Grupo 4 (AgroShop)](https://github.com/Hackathon-FGA-2020/Desafio-3-Grupo-4)</br>
+
+Parabéns a todos os participantes, eles fizeram a diferença nesses tempos de incertezas. 
+
+Certeza que a maior vencedora disso é a sociedade! Pra cima ! 😁👏🏻🇧🇷
+
+### Demonstrativos
+
+| Desafio escolhido | Quantidade de pessoas | Quantidade de grupos |
+|:-----------:|:--------:|:--------:|
+| Desafio 1 | 28 | 5 |
+| Desafio 2 | 15 | 3 |
+| Desafio 3 | 25 | 4 |
+| Total | 68 | 12 |
+
+
+![pessoas-por-grupo](./imgs/pessoas-por-grupo.jpeg)
+
+
+![desafio-escolhido-por-grupo](./imgs/desafio-escolhido-por-grupo.jpeg)
 
 ***
 
